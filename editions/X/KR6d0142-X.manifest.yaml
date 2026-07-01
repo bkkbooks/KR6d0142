@@ -1,0 +1,70 @@
+canonical_identifier: bkk:krp/KR6d0142/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0142/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 摩訶止觀貫義科
+  identifiers:
+    krp: KR6d0142
+    cbeta: X56n0924
+    cbeta_old_id: X56n0924
+    authorityid: CA0002284
+    json_key: X0924
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X56/X56n0924.xml
+    old_id: X56n0924
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0142_000-X.yaml, hash: 'sha256:cca7904af90f94fdbf70305aad201b0c61ad49f86bede68bf4bdb969a765f2f4'}
+  - {seq: 1, filename: KR6d0142_001-X.yaml, hash: 'sha256:7cba57cdb10e21a58faf60ccb1a54568656b37cc92de82967b150648d41d7300'}
+  - {seq: 2, filename: KR6d0142_002-X.yaml, hash: 'sha256:1b7d867b3e3c73deb783b9d27c200ef0573b92451d99de0d02d32277633197ba'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0142_000-X.markers.yaml, hash: 'sha256:fe4f16f09f4464ba98077d6587904d5fd3045da7fbe6ab672cf9423e76bb12c1'}
+  - {seq: 1, role: markers, filename: assets/KR6d0142_001-X.markers.yaml, hash: 'sha256:f747ccaa1815a6f5fb05f192ef12b1432b3ff4560a992e40321c520ce01b585a'}
+  - {seq: 2, role: markers, filename: assets/KR6d0142_002-X.markers.yaml, hash: 'sha256:ec4d921d5fc133c362737e4e3127a1af435285492d08552ce88849fce5b258e3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0142_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 924-A 摩訶止觀貫義科序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0142_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13182
+  label: 摩訶止觀貫義科上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0142_X_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 摩訶止觀貫義科
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0142_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 18796
+  label: 摩訶止觀貫義科下
+  type: juan
+  level: 1
+hash: sha256:288506c4a566305b965028cd2d9eb16c7d5a53cb8fdd295f518183090c1ca316
